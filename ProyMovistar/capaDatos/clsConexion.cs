@@ -12,7 +12,7 @@ namespace capaDatos
 {
     public class clsConexion
     {
-        MySqlConnection cn;
+        public MySqlConnection cn;
         public void conectar()
         {
             cn = new MySqlConnection(ConfigurationManager.ConnectionStrings["mysqlconex"].ConnectionString);
