@@ -45,7 +45,10 @@
   <ItemGroup>
     <Compile Include="clsConexion.cs" />
     <Compile Include="clsDatosInventario.cs" />
+<<<<<<< HEAD
     <Compile Include="clsDatosVenta.cs" />
+=======
+>>>>>>> c9718eed77605445b56ff366b4d918585b8d34ac
     <Compile Include="clsValidaciones.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
